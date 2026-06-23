@@ -25,4 +25,4 @@ Aplicación desarrollada en C# Windows Forms que permite registrar ventas de pro
 
 ## Autor
 
-Juan Carlos Sánchez Solís
+Juan José Godoy Godoy
